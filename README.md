@@ -1,6 +1,6 @@
 # Hi, I'm Shreeyash Pradeep Kudalkar
 
-**AI-Native Full-Stack & Data Systems Engineer** | **3+ Years Cross-Functional Experience (Production Engineering, Full-Stack & Data Analytics)**  
+**Early-Career AI-Native Full-Stack & Data Builder** | **~16M Tech/Data Roles + 6M Full-Stack Training + 20M Production Engineering**  
 Built **100% transparently** through **Vibe Coding & Agentic Development** — pairing rapid AI orchestration with strict schemas, security policies, and automated tests.
 
 - **Portfolio:** [shreeyash-kudalkar-portfolio.pages.dev](https://shreeyash-kudalkar-portfolio.pages.dev/)
